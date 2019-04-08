@@ -7,7 +7,9 @@ Tensorflow Docker Image
 ## Data
 
 data/processed_train.bin
+
 data/vocab-50k
+
 data/processed_test.bin
 
 ## Running the Docker Image
